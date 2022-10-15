@@ -1,0 +1,11 @@
+{
+  "name": "next-chunk-labeler",
+  "version": "1.2.0",
+  "description": "CLI tool for viewing NextJS chunks per page.",
+  "author": "Richard Xiong",
+  "license": "MIT",
+  "bin": "index.js",
+  "devDependencies": {
+    "@types/node": "^18.7.15"
+  }
+}
